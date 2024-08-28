@@ -181,6 +181,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{AC9EDDA0-0334-3D01-A40E-D6EA303C78EE}</Project>
       <Name>Battle-city</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\user\Desktop\mine\battle-city\build\external\glad\glad.vcxproj">
+      <Project>{805032D1-2601-3C8F-9FDD-39E8B4AE2859}</Project>
+      <Name>glad</Name>
+    </ProjectReference>
     <ProjectReference Include="C:\Users\user\Desktop\mine\battle-city\build\external\glfw\src\glfw.vcxproj">
       <Project>{F3785D8B-6506-363B-A97B-83C35E9DC49E}</Project>
       <Name>glfw</Name>
