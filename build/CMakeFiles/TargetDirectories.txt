@@ -1,0 +1,6 @@
+C:/Users/user/Desktop/mine/battle-city/build/CMakeFiles/Battle-city.dir
+C:/Users/user/Desktop/mine/battle-city/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/mine/battle-city/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/user/Desktop/mine/battle-city/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/Desktop/mine/battle-city/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/user/Desktop/mine/battle-city/build/external/glfw/src/CMakeFiles/update_mappings.dir
